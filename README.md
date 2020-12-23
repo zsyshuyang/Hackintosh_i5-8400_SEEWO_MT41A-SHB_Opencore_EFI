@@ -26,18 +26,27 @@
 
 ### 正常工作：
 
-- 1.声卡  正常
-- 2.网卡  有线正常，无线待解决
-- 3.蓝牙  待解决
-- 4.Airdrop  待解决
-- 5.接力  待解决
-- 6.App store  待测试
-- 7.睡眠  带测试
+- 1.声卡  
+- 2.有线网卡 
+- 3.触摸屏
+- 4.核心显卡
+- 5.原生电源，五项节能管理
+
+### 待解决&带测试
+- 1.无线网卡
+- 2.蓝牙
+- 4.Airdrop  
+- 5.接力  
+- 6.App store 
+- 7.睡眠  
+- 8.原生nvram
 
 ## 使用说明
 
 - 需重新生成三码
 
-## 致谢
+## 致谢&参考引用
 
  - [acidanthera](https://github.com/acidanthera)
+ - [OpenCore Install Guide]（https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/）
+ - [Yangye](https://gitee.com/yang230147961/uhd630_i58400_b360m-EFI)
