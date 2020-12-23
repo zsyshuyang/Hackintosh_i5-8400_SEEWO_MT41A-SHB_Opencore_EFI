@@ -48,5 +48,5 @@
 ## 致谢&参考引用
 
  - [acidanthera](https://github.com/acidanthera)
- - [OpenCore Install Guide]（https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/）
+ - [OpenCore Install Guide]https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/）
  - [Yangye](https://gitee.com/yang230147961/uhd630_i58400_b360m-EFI)
