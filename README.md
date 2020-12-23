@@ -13,10 +13,10 @@
     - 首次上传更新
 
 ## 配置
-CPU: i5-8400
-内存：三星 8G DDR4 2666MHz
-硬盘：前景 256G SSD
-核心显卡：UHD Graphics 630
+	- CPU: i5-8400
+	- 内存：三星 8G DDR4 2666MHz
+	- 硬盘：前景 256G SSD
+	- 核心显卡：UHD Graphics 630
 
 
 ## Bios设置
